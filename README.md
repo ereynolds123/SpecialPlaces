@@ -1,2 +1,2 @@
 # SpecialPlaces
-A webapp for "Special Places" that are likely to be lost to climate change
+Special Places is a CRUD webapp that allows users to add places that are special to them that are being threatened by climate change. 
